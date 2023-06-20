@@ -1,0 +1,16 @@
+D:\Desktop\CSharpOOP\CSharpOOP\QuanLyBinhLinh\bin\Debug\net5.0\QuanLyBinhLinh.exe
+D:\Desktop\CSharpOOP\CSharpOOP\QuanLyBinhLinh\bin\Debug\net5.0\QuanLyBinhLinh.deps.json
+D:\Desktop\CSharpOOP\CSharpOOP\QuanLyBinhLinh\bin\Debug\net5.0\QuanLyBinhLinh.runtimeconfig.json
+D:\Desktop\CSharpOOP\CSharpOOP\QuanLyBinhLinh\bin\Debug\net5.0\QuanLyBinhLinh.runtimeconfig.dev.json
+D:\Desktop\CSharpOOP\CSharpOOP\QuanLyBinhLinh\bin\Debug\net5.0\QuanLyBinhLinh.dll
+D:\Desktop\CSharpOOP\CSharpOOP\QuanLyBinhLinh\bin\Debug\net5.0\ref\QuanLyBinhLinh.dll
+D:\Desktop\CSharpOOP\CSharpOOP\QuanLyBinhLinh\bin\Debug\net5.0\QuanLyBinhLinh.pdb
+D:\Desktop\CSharpOOP\CSharpOOP\QuanLyBinhLinh\obj\Debug\net5.0\QuanLyBinhLinh.csproj.AssemblyReference.cache
+D:\Desktop\CSharpOOP\CSharpOOP\QuanLyBinhLinh\obj\Debug\net5.0\QuanLyBinhLinh.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\CSharpOOP\CSharpOOP\QuanLyBinhLinh\obj\Debug\net5.0\QuanLyBinhLinh.AssemblyInfoInputs.cache
+D:\Desktop\CSharpOOP\CSharpOOP\QuanLyBinhLinh\obj\Debug\net5.0\QuanLyBinhLinh.AssemblyInfo.cs
+D:\Desktop\CSharpOOP\CSharpOOP\QuanLyBinhLinh\obj\Debug\net5.0\QuanLyBinhLinh.csproj.CoreCompileInputs.cache
+D:\Desktop\CSharpOOP\CSharpOOP\QuanLyBinhLinh\obj\Debug\net5.0\QuanLyBinhLinh.dll
+D:\Desktop\CSharpOOP\CSharpOOP\QuanLyBinhLinh\obj\Debug\net5.0\ref\QuanLyBinhLinh.dll
+D:\Desktop\CSharpOOP\CSharpOOP\QuanLyBinhLinh\obj\Debug\net5.0\QuanLyBinhLinh.pdb
+D:\Desktop\CSharpOOP\CSharpOOP\QuanLyBinhLinh\obj\Debug\net5.0\QuanLyBinhLinh.genruntimeconfig.cache
