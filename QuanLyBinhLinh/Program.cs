@@ -13,9 +13,6 @@ namespace QuanLyBinhLinh
             a.InThongTin();
             b.InThongTin();
             a.ChienDau(b);
-            /*   c.InThongTin();
-               d.InThongTin();*/
-
         }
     }
 }
