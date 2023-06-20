@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace QuanLyBinhLinh
 {
+    //
     public class CungThu:BinhLinh
     {
         public CungThu()
