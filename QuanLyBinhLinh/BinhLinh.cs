@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace QuanLyBinhLinh
 {
-    //
+    
     public abstract class BinhLinh
     {
         protected double _dame;
