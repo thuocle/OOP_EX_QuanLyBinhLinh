@@ -12,7 +12,7 @@ namespace QuanLyBinhLinh
             BinhLinh d = new DauSi();*/
             a.InThongTin();
             b.InThongTin();
-            a.ChienDau(b);
+            a.ChienDau(b);/
         }
     }
 }
